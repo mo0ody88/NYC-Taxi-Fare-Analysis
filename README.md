@@ -2,9 +2,9 @@
 
 ## 📓 Project Notebook
 
-The complete analysis, data preparation, feature engineering, exploratory analysis, and modeling workflow is available in the Jupyter Notebook below:
+➡️ **[NYC Taxi Fare Analysis – Full Notebook](./nyc_taxi_2024_analysis.ipynb)**
 
-**[NYC_Taxi_Fare_Analysis.ipynb](NYC_Taxi_Fare_Analysis.ipynb)**  
+> Note: Due to GitHub file size constraints, the raw TLC dataset and derived Parquet files are not stored in this repository. The notebook documents how the dataset was sampled and processed.
 
 This notebook contains:
 - Data loading and sampling using Apache Spark

